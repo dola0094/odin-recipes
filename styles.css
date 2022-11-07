@@ -1,8 +1,15 @@
-div {
-    color: white;
-    background-color: grey;
+body {
+    background-color: rgb(255, 246, 77);
+    text-align: left;
+    font-family: Helvetica;
+    
   }
   
-  p {
-    color: black;
+img {
+    height: auto;
+    width: 400px;
+    
   }
+h1 {
+  text-align: center;
+ }
